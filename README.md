@@ -16,5 +16,5 @@ Reune dados georreferenciados referentes a área de [defesa civil e gestão de r
 
 
 ## Dados abertos da Polícia Rodoviária Federal
-Arquivos em formato .csv relativos a [acidentes, infrações de trânsito](https://www.prf.gov.br/portal/dados-abertos). Um léxico
+Arquivos em formato ```.csv ``` relativos a [acidentes, infrações de trânsito](https://www.prf.gov.br/portal/dados-abertos). Um léxico
 (dicionário) de termos e variáveis também está disponível.
