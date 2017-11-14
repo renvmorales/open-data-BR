@@ -33,3 +33,10 @@ Conforme descrição no portal: "_[Dados do orçamento federal brasileiro](http:
 
 ## Dados Abertos da Saúde - Portal Brasileiro de Dados Abertos
 Um catálago com [47 conjuntos de dados abertos](http://dados.gov.br/harvest/dados-abertos-da-saude) do Ministério da Saúde. Portal aparenta garantir boa acessabilidade para formatos de dados em ```html```, ```csv``` e ```json```.
+
+
+
+
+
+## Dados abertos do MEC
+Disponibiliza [dados e informações públicas](http://dadosabertos.mec.gov.br/) do Ministério de Educação divididos em 3 setores: Programa Mais Educação (PME), PROUNI e PRONATEC. Consta um total de 32 conjuntos de dados, onde a maioria destes provém do PROUNI e PRONATEC. 
