@@ -18,3 +18,8 @@ Reune dados georreferenciados referentes a área de [defesa civil e gestão de r
 ## Dados abertos da Polícia Rodoviária Federal
 Arquivos em formato ```.csv ``` relativos a [acidentes, infrações de trânsito](https://www.prf.gov.br/portal/dados-abertos). Um léxico
 (dicionário) de termos e variáveis também está disponível.
+
+
+
+## Orçamento Federal - Portal Brasileiro de Dados Abertos
+Conforme descrição no portal: "_[Dados do orçamento federal brasileiro](http://dados.gov.br/dataset/orcamento-federal), inclusive da execução orçamentária, no período entre 2000 até o ano corrente_". O formato de dados disponibilizados é RDF. Pode ser necessário conhecimento de ontologia em linguagem OWL.
