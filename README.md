@@ -3,6 +3,8 @@
 Um repositório para dados públicos de acesso aberto no Brasil. A intenção é de reunir links com as mais importantes agências governamentais ou instituições públicas. A lista não é definitiva e está permanentemente em estado de atualização.
 
 
+
+
 ## Sistema Integrado de Informações sobre Desastres (S2ID)
 
 Reune dados georreferenciados referentes a área de [defesa civil e gestão de riscos e desastres](http://www.mi.gov.br/web/guest/defesa-civil/s2id).
@@ -21,5 +23,13 @@ Arquivos em formato ```.csv ``` relativos a [acidentes, infrações de trânsito
 
 
 
+
 ## Orçamento Federal - Portal Brasileiro de Dados Abertos
 Conforme descrição no portal: "_[Dados do orçamento federal brasileiro](http://dados.gov.br/dataset/orcamento-federal), inclusive da execução orçamentária, no período entre 2000 até o ano corrente_". O formato de dados disponibilizados é RDF. Pode ser necessário conhecimento de ontologia em linguagem OWL.
+
+
+
+
+
+## Dados Abertos da Saúde - Portal Brasileiro de Dados Abertos
+Um catálago com [47 conjuntos de dados abertos](http://dados.gov.br/harvest/dados-abertos-da-saude) do Ministério da Saúde. Portal aparenta garantir boa acessabilidade para formatos de dados em ```html```, ```csv``` e ```json```.
