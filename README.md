@@ -5,7 +5,7 @@ Um repositório para dados públicos de acesso aberto no Brasil. A intenção aq
 
 ## Sistema Integrado de Informações sobre Desastres (S2ID)
 
-Reune dados georreferenciados referentes a área de defesa civil e gestão de riscos e desastres ([aqui](http://www.mi.gov.br/web/guest/defesa-civil/s2id)).
+Reune dados georreferenciados referentes a área de [defesa civil e gestão de riscos e desastres](http://www.mi.gov.br/web/guest/defesa-civil/s2id).
 
 
 
