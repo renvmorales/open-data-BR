@@ -21,15 +21,13 @@ https://dadosabertos.camara.leg.br/swagger/api.html
 
 
 http://transparencia.gov.br/
+
+
 http://dados.gov.br/
 
 
 
 http://portal.tcu.gov.br/transparencia/
-
-
-
-http://turicas.info/rows/
 
 
 
