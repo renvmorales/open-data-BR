@@ -60,7 +60,7 @@ Consta com uma gama bastante ampla de [dados focados em transparência da gestã
 
 
 ## Portal Brasileiro de Dados Abertos
-Portal geral de acesso a [dados abertos](http://dados.gov.br/).
+Portal bastante amplo de acesso geral a [dados abertos](http://dados.gov.br/). Além de ser o principal portal para acesso de diversas entidades, é possível encontrar uma listagem com [projetos, aplicativos de visualização](http://dados.gov.br/aplicativos) feitos com uso das bases de dados presente no portal.
 
 
 
