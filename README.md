@@ -40,3 +40,11 @@ Um catálago com [47 conjuntos de dados abertos](http://dados.gov.br/harvest/dad
 
 ## Dados abertos do MEC
 Disponibiliza [dados e informações públicas](http://dadosabertos.mec.gov.br/) do Ministério de Educação divididos em 3 setores: Programa Mais Educação (PME), PROUNI e PRONATEC. Consta um total de 32 conjuntos de dados, onde a maioria destes provém do PROUNI e PRONATEC. 
+
+
+
+
+
+
+## Dados Abertos da Câmara dos Deputados
+Portal que permite acesso a diversos [dados legislativos](https://dadosabertos.camara.leg.br/swagger/api.html) produzidos na Câmara dos Deputados. Destaque para a base de dados de **Despesas pela Cota de Atividade Parlamentar** utilizados principalmente pela [Operação Serenata de Amor](https://serenatadeamor.org/) para desenvolver um sistema de detecção de uso irregular destas cotas pelos parlamentares. Boa acessabilidade de dados em diversos formatos: ```xml```, ```json```, ```csv```, ```xlsx``` e ```ods```.
