@@ -48,3 +48,13 @@ Disponibiliza [dados e informações públicas](http://dadosabertos.mec.gov.br/)
 
 ## Dados Abertos da Câmara dos Deputados
 Portal que permite acesso a diversos [dados legislativos](https://dadosabertos.camara.leg.br/swagger/api.html) produzidos na Câmara dos Deputados. Destaque para a base de dados de **Despesas pela Cota de Atividade Parlamentar** utilizados principalmente pela [Operação Serenata de Amor](https://serenatadeamor.org/) para desenvolver um sistema de detecção de uso irregular destas cotas pelos parlamentares. Boa acessabilidade de dados em diversos formatos: ```xml```, ```json```, ```csv```, ```xlsx``` e ```ods```.
+
+
+
+
+
+## Portal da Transparência
+Consta com uma gama bastante ampla de [dados focados em transparência da gestão pública](http://transparencia.gov.br/) no âmbito das esferas federal, estadual e municipal. Alguns exemplos de informações (e dados) disponíveis são: transferências de recursos, gastos de verbas públicas, programas sociais, etc. A lista é extensa mas uma breve descrição do que pode ser encontrado pode ser visto [aqui](http://transparencia.gov.br/sobre/OQueEncontra.asp).
+
+
+
