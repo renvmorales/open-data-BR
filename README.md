@@ -68,3 +68,10 @@ Portal geral de acesso a [dados abertos](http://dados.gov.br/).
 
 ## Tribunal de Contas da União
 Portal contendo diversas informações e dados acerca das [contas do TCU, licitações de contratos, concursos, obras em andamento, etc.](http://portal.tcu.gov.br/transparencia/) Uma grande parte de informações está disponível no formato de documentos de texto. 
+
+
+
+
+
+## Plataforma Sucupira
+Reune uma grande quantidade de dados referentes às atividades da Capes relacionadas aos programas de pós-graduação no Brasil. É possível obter uma série de informações e dados dos programas de pós como [avaliação, docentes, linhas de pesquisa, assim como os trabalhos de dissertação e teses](https://sucupira.capes.gov.br/sucupira/public/index.xhtml). Destaque para o informativo gráfico georreferenciado onde pode ser visualizado, por exemplo, a distribuição das [concessões de bolsas de pós-graduação](https://geocapes.capes.gov.br/geocapes/) no território nacional.
