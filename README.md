@@ -58,3 +58,13 @@ Consta com uma gama bastante ampla de [dados focados em transparência da gestã
 
 
 
+
+## Portal Brasileiro de Dados Abertos
+Portal geral de acesso a dados abertos 
+
+
+
+
+
+## Tribunal de Contas da União
+Portal contendo diversas informações e dados acerca das [contas do TCU, licitações de contratos, concursos, obras em andamento, etc.](http://portal.tcu.gov.br/transparencia/) Uma grande parte de informações está disponível no formato de documentos de texto. 
