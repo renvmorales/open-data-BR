@@ -91,7 +91,7 @@ Reune uma grande quantidade de dados referentes às atividades da Capes relacion
 
 
 ## Dados Abertos do Banco Central
-Inclui uma ampla quantidade de informações e dados abertos referentes as atividades do orgão regulamentador do Banco Central do Brasil tais como [séries históricas das taxas de câmbio, selic, entre outras](https://dadosabertos.bcb.gov.br/). O portal possui boa compatibilidade com os mais diversos formatos de arquivos. No entanto, a listagem da página inicial induz equivocadamente a um número baixo de conjunto de dados. Neste caso, é recomendável ver também o [portal de Dados Abertos](http://dados.gov.br/harvest/banco-central-do-brasil-bcb) onde informação é de que são existentes 1296 conjuntos de dados.
+Inclui uma ampla quantidade de informações e dados abertos referentes as atividades do orgão regulamentador do Banco Central do Brasil tais como [séries históricas das taxas de câmbio, selic, entre outras](https://dadosabertos.bcb.gov.br/). O portal possui boa compatibilidade com os mais diversos formatos de arquivos. No entanto, a listagem da página inicial induz equivocadamente a um número baixo de conjunto de dados. Neste caso, é recomendável ver também o [portal de Dados Abertos](http://dados.gov.br/harvest/banco-central-do-brasil-bcb) onde informação é de que existem 1296 conjuntos de dados.
 
 
 
