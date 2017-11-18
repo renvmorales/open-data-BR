@@ -2,13 +2,13 @@
 
 Segundo a definição do portal [Open Definition](http://opendefinition.org/) dados são considerados abertos quando:
 
->_"qualquer pessoa tem livre acesso para usar, modificar e compartilhar para qualquer fim"_.
+>_qualquer pessoa tem livre acesso para usar, modificar e compartilhar para qualquer fim_.
 
 Este repositório reúne direcionamento para algumas agências governamentais ou instituições públicas no Brasil que fornecem acesso direto a dados abertos. Espera-se que o conjunto de referências descritas aqui possam contribuir nos seguintes aspectos: 
 
 * incentivar estudos especializados e uma melhor compreensão da realidade e dos problemas brasileiros
 * estimular a busca por algumas soluções práticas de tecnologia que tenham relevância para sociedade (seja na forma de iniciativas pública ou privada) 
-* servir como exercício e prática de [_raspagem de dados_](https://en.wikipedia.org/wiki/Web_scraping). 
+* servir puramente como exercício e aprimoramento da prática de [_raspagem de dados_](https://en.wikipedia.org/wiki/Web_scraping) na web
 
 Finalmente, esta lista não pretende ser exaustiva (ou definitiva) e está em permanente estado de atualização.
 
