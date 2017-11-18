@@ -1,6 +1,9 @@
 # public-data-BR
 
-Um repositório para dados públicos de acesso aberto no Brasil. A intenção é de reunir links com as mais importantes agências governamentais ou instituições públicas. A lista não é definitiva e está permanentemente em estado de atualização.
+Dados são considerados abertos [_"quando qualquer pessoa tem livre acesso para usar, modificar e compartilhar para qualquer fim"_](http://opendefinition.org/).
+
+
+Este repositório reúne links com as algumas agências governamentais ou instituições públicas como fontes de acesso a dados abertos. A lista não é definitiva e está permanentemente em estado de atualização.
 
 
 
