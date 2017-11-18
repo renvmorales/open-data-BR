@@ -26,9 +26,10 @@ http://transparencia.gov.br/
 http://dados.gov.br/
 
 
-
 http://portal.tcu.gov.br/transparencia/
 
 
-
 https://sucupira.capes.gov.br/sucupira/public/index.xhtml
+
+
+https://dadosabertos.bcb.gov.br
