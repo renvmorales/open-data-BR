@@ -1,9 +1,8 @@
 # public-data-BR
 
-Dados são considerados abertos [_"quando qualquer pessoa tem livre acesso para usar, modificar e compartilhar para qualquer fim"_](http://opendefinition.org/).
+Dados são considerados abertos quando [_"qualquer pessoa tem livre acesso para usar, modificar e compartilhar para qualquer fim"_](http://opendefinition.org/).
 
-
-Este repositório reúne links com as algumas agências governamentais ou instituições públicas como fontes de acesso a dados abertos. A lista não é definitiva e está permanentemente em estado de atualização.
+Este repositório reúne direcionamento para algumas agências governamentais ou instituições públicas no Brasil que servem como fontes primárias de acesso a dados abertos. Espera-se que o conjunto de referências descritas aqui possam incentivar não somente estudos especializados, como também servir como exercício e prática da [_raspagem de dados_](https://en.wikipedia.org/wiki/Web_scraping). Finalmente, esta lista não pretende ser exaustiva (ou definitiva) e está permanentemente em estado de atualização.
 
 
 
